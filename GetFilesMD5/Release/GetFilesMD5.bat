@@ -1,0 +1,1 @@
+GetFilesMD5.exe -url test.update.com/ -nofile exe ver -nodir .vs -dir Release
